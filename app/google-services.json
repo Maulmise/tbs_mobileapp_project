@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217991115383",
+    "project_id": "authrealtime-67165",
+    "storage_bucket": "authrealtime-67165.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217991115383:android:796d2f42c161cfd5b70c72",
+        "android_client_info": {
+          "package_name": "id.ub.authrealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217991115383-49094d3je08lacj0ivccc52lv2j6dq3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN07wEhsOiDEI_hyCys7Ej6aQxTLPCt3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217991115383-49094d3je08lacj0ivccc52lv2j6dq3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
