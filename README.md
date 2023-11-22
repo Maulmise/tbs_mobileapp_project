@@ -1,10 +1,7 @@
 # ProjectAkhirPAPB
 
-Project aplikasi berbasiskan Firebase Auth dan Realtime ini ditujukan untuk memenuhi tugas akhir Pemrograman Aplikasi Perangkat Bergerak dengan anggota,
-1. M Ighfar Maulana
-2. Neyla Nuril Fauziyah
-3. Abdurrizqo Arrahman
-4. Nagata Andy Rizqullah
+Project aplikasi berbasiskan Firebase Auth dan Realtime ini ditujukan untuk memenuhi tugas akhir Pemrograman Aplikasi Perangkat Bergerak dari M Ighfar Maulana 205150400111055
+
 
 ## Getting started
 
